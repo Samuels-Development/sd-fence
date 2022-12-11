@@ -1,4 +1,21 @@
-I have replaced normal .txt files with gitbook, this allows me to actievely update my customers with extra installation steps if updates are made
-without having to rely on discord.
+# sd-fence
 
-Installation can be found here >> https://samuel-nicol.gitbook.io/samuels-development-house-robbery/
+![Fence](https://i.imgur.com/XH90GOr.jpeg"Fence")
+
+This is a fairly basic blackmarket/fencing script I whipped together for a city I'm currently working on @ https://discord.gg/malmocityrp
+
+Please Consider checking out my other work here on GitHub or on my Store & Discord @
+https://samuels-development.tebex.io & https://discord.gg/samueldev
+
+If you encounter any issues/bugs etc. you'd like adressed, make sure to join my discord and ask for support in the appropriate chat(s) or make an issue here on GitHub!
+
+
+# Requirments
+- qb-core
+- qb-target
+
+# Installation
+
+Step 1: Add sd-fence into your resources folder (and ensure it if needed in your server.cfg)
+
+Done :)
